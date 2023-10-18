@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Azure Honeynet SOC </b>
-  - https://github.com/bmpwrr/Azure-Honeynet-SOC/edit/main/README.md
+  - [https://github.com/bmpwrr/Azure-Honeynet-SOC/edit/main/README.md](https://github.com/bmpwrr/Azure-Honeynet-SOC/blob/main/README.md)https://github.com/bmpwrr/Azure-Honeynet-SOC/blob/main/README.md
 
 
 
