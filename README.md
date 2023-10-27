@@ -10,4 +10,5 @@
 - <b> Installing MS SQL </b>
   - https://github.com/bmpwrr/Installing-MS-SQL-/tree/main
 
-
+- <b> Implementing Platform Protection </b>
+  - https://github.com/bmpwrr/Implement-Platform-Protection/blob/main/README.md
