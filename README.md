@@ -7,5 +7,7 @@
 - <b> Microsoft Entra ID (Azure Active Directory) </b>
   - [https://github.com/bmpwrr/Microsoft-Entra-ID-Azure-Active-Directory-/new/main?readme=1](https://github.com/bmpwrr/Microsoft-Entra-ID-Azure-Active-Directory-)https://github.com/bmpwrr/Microsoft-Entra-ID-Azure-Active-Directory-
 
+- <b> Installing MS SQL </b>
+  - https://github.com/bmpwrr/Installing-MS-SQL-/tree/main
 
 
