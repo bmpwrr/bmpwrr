@@ -10,5 +10,5 @@
 - <b> Installing MS SQL </b>
   - https://github.com/bmpwrr/Installing-MS-SQL-/tree/main
 
-- <b> Implementing Platform Protection </b>
+- <b> Implementing Platform Protection Using Network Security Groups and Application Security Groups </b>
   - https://github.com/bmpwrr/Implement-Platform-Protection/blob/main/README.md
