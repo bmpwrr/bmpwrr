@@ -12,3 +12,6 @@
 
 - <b> Implementing Platform Protection Using Network Security Groups and Application Security Groups </b>
   - https://github.com/bmpwrr/Implement-Platform-Protection/blob/main/README.md
+
+- <b> Implenting Platform Protecting Using Azure Firewalls </b>
+  - https://github.com/bmpwrr/Azure-Firewalls/tree/main
